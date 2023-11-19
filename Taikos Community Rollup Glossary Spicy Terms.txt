@@ -9,7 +9,7 @@ The property of a [rollup](#rollup)’s state being reachable by any [node](/oth
 
 ## Decentralized rollup
 
-There are several factors within a [rollup](#rollup) construction which separately can be more or less decentralized, leading to the degree to which the rollup as a whole is uncapturable by a central entity. The most significant factors include who can run a [node](/other-terms#node), who can [propose](#proposer) [blocks](/other-terms#block), who can [prove](#prover) blocks (in [ZK-Rollups](/other-terms#ZK-Rollup)), and who can [upgrade](#Upgradeability) the rollup [smart contracts](/other-terms#Smart-contract). For the factors of "who can run a node/proposer/prover", the question asks both: is it [permissionless](#permissionless) for anyone to run these (no allow-list); and how reasonable is it in terms of hardware required.
+There are several factors within a [rollup](#rollup) construction which separately can be more or less decentralized, leading to the degree to which the rollup as a whole is uncapturable by a central entity. The most significant factors include who can run a [node](/other-terms#node), who can [propose](#proposer) [blocks](/other-terms#block), who can [prove](#prover) blocks (in [ZK-Rollups](/other-terms#ZK-Rollup)), and who can [upgrade](#Upgradeability) the rollup [smart contracts](/other-terms#Smart-contract). For the factors of ""who can run a node/proposer/prover"", the question asks both: is it [permissionless](#permissionless) for anyone to run these (no allow-list); and how reasonable is it in terms of hardware required.
 
 ## Ethereum-equivalent ZK-EVM
 

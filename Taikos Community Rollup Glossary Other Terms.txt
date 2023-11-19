@@ -277,11 +277,11 @@ A program that executes on the Ethereum computing infrastructure, or other block
 
 ## SNARK
 
-Short for "[succinct](#Succinctness) non-interactive argument of knowledge", a SNARK is a widely used type of [zero-knowledge proof](#Zero-knowledge-proof-(ZKP)) that is short and fast to [verify](#Verifier). Different kinds of SNARKs are usually systematized by proof size, verification time, and type of [setup](#Trusted-setup). The most famous SNARKs are Groth16, [PLONK](#PLONK)/Marlin, Bulletproofs, and [STARKs](#STARK).
+Short for ""[succinct](#Succinctness) non-interactive argument of knowledge"", a SNARK is a widely used type of [zero-knowledge proof](#Zero-knowledge-proof-(ZKP)) that is short and fast to [verify](#Verifier). Different kinds of SNARKs are usually systematized by proof size, verification time, and type of [setup](#Trusted-setup). The most famous SNARKs are Groth16, [PLONK](#PLONK)/Marlin, Bulletproofs, and [STARKs](#STARK).
 
 ## STARK
 
-Short for "[scalable](/foundational-terms#Scalability) transparent argument of knowledge", a STARK is a type of [zero-knowledge proof](#Zero-knowledge-proof-(ZKP)) that resolves one of the primary weaknesses of ZK-[SNARKs](#SNARK), its reliance on a "[trusted setup](#Trusted-setup)”. STARKs also come with much simpler cryptographic assumptions, avoiding the need for elliptic curves, pairings, and the knowledge-of-exponent assumption and instead relying purely on [hashes](#Hash) and information theory. This means that they are secure even against attackers with quantum computers.
+Short for ""[scalable](/foundational-terms#Scalability) transparent argument of knowledge"", a STARK is a type of [zero-knowledge proof](#Zero-knowledge-proof-(ZKP)) that resolves one of the primary weaknesses of ZK-[SNARKs](#SNARK), its reliance on a ""[trusted setup](#Trusted-setup)”. STARKs also come with much simpler cryptographic assumptions, avoiding the need for elliptic curves, pairings, and the knowledge-of-exponent assumption and instead relying purely on [hashes](#Hash) and information theory. This means that they are secure even against attackers with quantum computers.
 
 ## Succinctness
 
@@ -301,7 +301,7 @@ A type of cryptography where multiple parties jointly hold a secret key and must
 
 ## Trusted setup (ceremony)
 
-Generation of a piece of data that must then be used for some cryptographic protocol to run. Generating this data requires some secret information. The "trust" comes from the fact that a person generates a secret, uses it to generate the data, and then publishes the data and forgets the secret. Once the data is generated, and the secrets are forgotten, no further participation from the creators of the ceremony is required.
+Generation of a piece of data that must then be used for some cryptographic protocol to run. Generating this data requires some secret information. The ""trust"" comes from the fact that a person generates a secret, uses it to generate the data, and then publishes the data and forgets the secret. Once the data is generated, and the secrets are forgotten, no further participation from the creators of the ceremony is required.
 There are two types of trusted setup: (i) trusted setup per [circuit](#Circuit) where it is generated from scratch for each circuit, (ii) trusted universal (updatable) setup where it can be used for as many circuits as we want.
 
 ## Trustlessness
@@ -310,7 +310,7 @@ The ability of a [network](#Network) to mediate [transactions](#Transaction) wit
 
 ## Turing completeness
 
-A system of data-manipulation rules (such as a computer's instruction set, a programming language, or a cellular automaton) is said to be "Turing-complete" or "computationally universal" if it is able to recognize or decide other data-manipulation rule sets.
+A system of data-manipulation rules (such as a computer's instruction set, a programming language, or a cellular automaton) is said to be ""Turing-complete"" or ""computationally universal"" if it is able to recognize or decide other data-manipulation rule sets.
 
 ## Validator
 
