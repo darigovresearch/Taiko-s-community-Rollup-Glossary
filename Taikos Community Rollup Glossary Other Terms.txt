@@ -1,3 +1,17 @@
+"Introduction (Taiko's Community Rollup Glossary)"|"<p>This deck has taken definitions outlined in <a href=""https://rollup-glossary.vercel.app/"">Taiko's Community Rollup Glossary</a> and put them into a form which can be easily learnt/revised using <a href=""https://apps.ankiweb.net/"">Anki</a> a cross platform app specifically designed for long term knowledge retention.</p>
+<h2>Notes</h2>
+<p>Please note the modifications which have been made &amp; where you can find updates.
+<ol align=""left"">	
+	<li>The front of every card has ""(Taiko's Community Rollup Glossary)"" appended to the end so that if you have any other words in your collection, the Taiko's Community Rollup Glossary definition will still be added when importing it.</li>
+	<li>Internal URLS have been reformatted to full URLs be usable in Anki</li>
+	<li>Any updates, translations or corrections to the deck will be available at <a href=""https://github.com/darigovresearch/Taikos-Community-Rollup-Glossary"">https://github.com/darigovresearch/Taikos-Community-Rollup-Glossary</a> so do return periodically to check if you have the latest version.</p></li>
+</ol>
+<p>Feel free to share the deck and give the repository a star so more people are likely to see this work and can get the most out of it.</p>
+<h2>License</h2>
+<p>Unless otherwise specified, everything in this deck is covered by the following licence:</p>
+<p>This work was based on the work <strong><em>Rollup Glosary</em></strong> by <a href=""https://rollup-glossary.vercel.app/"">Taiko</a>, licensed under an <a href=""https://github.com/taikoxyz/rollup-glossary/blob/main/LICENSE"">MIT Licence</a>.</p>
+<p>To see this work in full go to https://rollup-glossary.vercel.app/</p>
+"
 "Application-specific rollup (Taiko's Community Rollup Glossary)"|"
 A <a href=""https://rollup-glossary.vercel.app/other-terms#rollup"">rollup</a> that supports only a certain type of application or functionality. For example, a rollup that supports only ETH and ERC20 token transfers, or DEX swaps. This is in contrast to <a href=""https://rollup-glossary.vercel.app/other-terms#general-purpose-rollup"">general-purpose rollups</a> which support arbitrary computations.
 "
