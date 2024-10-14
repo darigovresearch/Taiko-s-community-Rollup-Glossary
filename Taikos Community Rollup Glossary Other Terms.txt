@@ -54,10 +54,10 @@ A sharding design proposed for Ethereum. Instead of providing more space for tra
 In comparison to other sharding mechanisms, where there are a fixed number of shards with distinct <a href=""https://rollup-glossary.vercel.app/#Block"">blocks</a> and distinct block <a href=""https://rollup-glossary.vercel.app/#Proposer"">proposers</a>, in Danksharding there is only one proposer that chooses all transactions and all data that go into that slot.
 "
 "Determinism (Taiko's Community Rollup Glossary)"|"
-The concept of some function or process having a single outcome that is knowable by all participants. In the context of a <a href=""https://rollup-glossary.vercel.app/spicy-terms#Rollup"">rollup</a>, it generally refers to the new state being calculable given a prior state and a list of <a href="#Transaction"">transactions</a> to be executed.
+The concept of some function or process having a single outcome that is knowable by all participants. In the context of a <a href=""https://rollup-glossary.vercel.app/spicy-terms#Rollup"">rollup</a>, it generally refers to the new state being calculable given a prior state and a list of <a href=""#Transaction"">transactions</a> to be executed.
 "
 "Ethereum Virtual Machine (EVM) (Taiko's Community Rollup Glossary)"|"
-A stack-based virtual machine that executes <a href=""https://rollup-glossary.vercel.app/#bytecode"">bytecode</a>. In Ethereum, the execution model specifies how the system state is altered given a series of bytecode instructions and a small tuple of environmental data. In the context of <a href=/spicy-terms#Rollup"">rollups</a>
+A stack-based virtual machine that executes <a href=""https://rollup-glossary.vercel.app/#bytecode"">bytecode</a>. In Ethereum, the execution model specifies how the system state is altered given a series of bytecode instructions and a small tuple of environmental data. In the context of <a href=""/spicy-terms#Rollup"">rollups</a>
 , the EVM is a choice of execution environment that rollups could implement, as in the case of EVM ZK-Rollups (<a href=""https://rollup-glossary.vercel.app/#ZK-EVM"">ZK-EVMs</a>) and EVM <a href=""https://rollup-glossary.vercel.app/#optimistic-rollup"">optimistic rollups</a>.
 "
 "Execution environment (Taiko's Community Rollup Glossary)"|"
@@ -155,7 +155,7 @@ A constellation of <a href=""https://rollup-glossary.vercel.app/#Node"">nodes</a
 A software <a href=""https://rollup-glossary.vercel.app/#Client"">client</a> that participates in the <a href=""https://rollup-glossary.vercel.app/#Network"">network</a>.
 "
 "Opcode (Taiko's Community Rollup Glossary)"|"
-A binary instruction code that defines a specific operation or computational task that the EVM or other VMs can perform. In the context of rollups, opcode- and bytecode-level <a href=#compatibility"">compatibility</a>
+A binary instruction code that defines a specific operation or computational task that the EVM or other VMs can perform. In the context of rollups, opcode- and bytecode-level <a href=""#compatibility"">compatibility</a>
  refers to the ability to execute smart contracts with or without modification.
 "
 "One-time pad (Taiko's Community Rollup Glossary)"|"
@@ -271,7 +271,7 @@ A data storage format of which you can make a proof that it contains some pieces
 A hybrid <a href=""https://rollup-glossary.vercel.app/spicy-terms#data-availability"">data availability</a> mode, where the user can choose whether to place data on-chain or off-chain.
 "
 "Zero-knowledge (Taiko's Community Rollup Glossary)"|"
-A cryptographic technology and sub-discipline of cryptography that allows an individual to <a href="#Prover"">prove</a> that a statement or computation is true without revealing any additional information.
+A cryptographic technology and sub-discipline of cryptography that allows an individual to <a href=""#Prover"">prove</a> that a statement or computation is true without revealing any additional information.
 "
 "Zero-knowledge proof (ZKP) (Taiko's Community Rollup Glossary)"|"
 A zero-knowledge proof is the resulting output of a <a href=""https://rollup-glossary.vercel.app/#Zero-knowledge"">zero-knowledge</a> cryptographic method.
